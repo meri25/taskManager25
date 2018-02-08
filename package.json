@@ -1,0 +1,25 @@
+{
+  "name": "taskmanager25",
+  "version": "1.0.0",
+  "description": "task management",
+  "main": "main.js",
+   "dependences" : {
+    "express" : "*"
+   },
+  "scripts": {
+    "start" : "node main.js"
+  }, 
+  "engines":{
+    "node" : "8.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meri25/taskManager25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meri25/taskManager25/issues"
+  },
+  "homepage": "https://github.com/meri25/taskManager25#readme"
+}
